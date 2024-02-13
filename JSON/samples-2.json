@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Bird sounds",
+    "file": "samples/forrest-birds-001.mp3",
+    "bpm": "120",
+    "loop": "1m"
+  },
+  {
+    "name": "Chopin Waltz",
+    "file": "samples/chopin-waltz-in-e-minor-b.mp3",
+    "bpm": "120",
+    "loop": "1m"
+  },
+  {
+    "name": "Retro laser guns",
+    "file": "samples/retro-space-wars-laser-gun.mp3",
+    "bpm": "120",
+    "loop": "1m"
+  }
+]
