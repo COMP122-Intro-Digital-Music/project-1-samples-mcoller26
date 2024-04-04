@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kick ",
+    "pitch": "A3",
+    "pattern": "10000"
+  },
+  {
+    "name": "Hi-Hat ",
+    "pitch": "F#4",
+    "pattern": "1000"
+  },
+  {
+    "name": "Reverse cymbal ",
+    "pitch": "E4",
+    "pattern": "1000"
+  }
+]
