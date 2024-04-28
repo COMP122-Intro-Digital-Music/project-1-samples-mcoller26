@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Snare",
+    "pitch": "B3",
+    "pattern": "1000"
+  },
+  {
+    "name": "Shot ",
+    "pitch": "D#4",
+    "pattern": "100"
+  }
+]
